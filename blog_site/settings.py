@@ -28,7 +28,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'localhost',
-    'blog-posts-api-71fdc389880b.herokuapp.com'
+    'blog-posts-api-71fdc389880b.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
